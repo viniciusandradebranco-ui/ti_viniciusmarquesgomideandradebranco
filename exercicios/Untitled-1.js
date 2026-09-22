@@ -5,6 +5,7 @@ let visto = false;
 //   5 === 5    -> true
 //   "5" === 5  -> false
 //   "5" == 5   -> true
+
 //   true === false -> false
 
 // ex3
